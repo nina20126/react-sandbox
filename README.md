@@ -38,5 +38,5 @@ Finally this project has been published using GitHub pages. You can visit test t
 
 [Vite React App deploy On GitHub](youtube.com/watch?v=XhoWXhyuW_I)  
 [Vite Documentation](https://vitejs.dev/guide/static-deploy.html)  
-[White page problem](https://stackoverflow.com/questions/54427793/getting-blank-page-after-react-app-publish-in-github)  
-[White page problem](https://stackoverflow.com/questions/49165825/the-pattern-in-the-src-property-didnt-match-any-files-react-js)
+[White page problem, 1](https://stackoverflow.com/questions/54427793/getting-blank-page-after-react-app-publish-in-github)  
+[White page problem, 2](https://stackoverflow.com/questions/49165825/the-pattern-in-the-src-property-didnt-match-any-files-react-js)
