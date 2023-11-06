@@ -32,7 +32,7 @@ Books page present a list where user can add books to read or remove them from t
 
 #### 6. Publishing with GitHub pages
 
-Finally this project has been published using GitHub pages. You can visit test the site here!
+Finally this project has been published using GitHub pages. You can visit test the site [here](https://nina20126.github.io/)!
 
 #### Links to tutorials and other material used in this project
 
